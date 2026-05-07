@@ -2,7 +2,7 @@
 
 Co-Founder & CAIO at [Artists & Robots](https://artistsandrobots.com) and [SuperTruth](https://supertruth.ai).
 
-I build AI-powered platforms at the intersection of healthcare, music, live events, and data integrity. I've been doing this long enough to know the hard part is never the AI — it's everything around it.
+I build AI-powered platforms at the intersection of healthcare, music, live events, and data integrity. I've been doing this long enough to know the hard part is never the AI. It's everything around it.
 
 When I can't find a tool I need, I build it and ship the hard parts as open source.
 
@@ -10,7 +10,7 @@ When I can't find a tool I need, I build it and ship the hard parts as open sour
 
 ## Background
 
-30 years of building things that didn't exist yet. First commercial software at 14. Founded [EVIL ROBOT MFG.](https://evilrobot.com) at 22 — still the umbrella for everything I do.
+30 years of building things that didn't exist yet. First commercial software at 14. Founded [EVIL ROBOT MFG.](https://evilrobot.com) at 22. Still the umbrella for everything I do.
 
 Invented the foundation patents for mobile advertising with JAGTAG: computer vision that reads any symbol in the physical world and delivers targeted content, plus a persistent cross-device identity layer. First 2D barcode on every major US carrier. Smart glasses and AR wearables run on derivatives of this IP. Acquired 2011.
 
@@ -24,15 +24,15 @@ Co-founded MPOWERD and invented the Luci inflatable solar lantern. 5 million peo
 
 ## What I'm building now
 
-**[Artists & Robots](https://artistsandrobots.com)** — a human-first AI studio. AI should amplify human judgment, taste, and meaning. Every platform we build is designed with that as the hard constraint.
+**[Artists & Robots](https://artistsandrobots.com)** is a human-first AI studio. AI should amplify human judgment, taste, and meaning. Every platform we build is designed with that as the hard constraint.
 
-**[SuperTruth](https://supertruth.ai)** — the truth layer underneath healthcare intelligence. Consent-verified, integrity-scored patient data. Data quality as a currency, not an assumption. Read the [blog](https://supertruth.ai/blog).
+**[SuperTruth](https://supertruth.ai)** is the truth layer underneath healthcare intelligence. Consent-verified, integrity-scored patient data. Data quality as a currency, not an assumption. Read the [blog](https://supertruth.ai/blog).
 
 ---
 
 ## Open source
 
-**[stax](https://github.com/evil-robot/stax)** — server-side isometric 3D bar chart generation for Node.js. No browser, no Puppeteer, no external service. I needed this and couldn't find it. Three days of pain, one library. Pure PNG output.
+**[stax](https://github.com/evil-robot/stax)**: server-side isometric 3D bar chart generation for Node.js. No browser, no Puppeteer, no external service. I needed this and couldn't find it. Three days of pain, one library. Pure PNG output.
 
 ![stax example chart](https://raw.githubusercontent.com/evil-robot/stax/main/docs/example-dti.png)
 
@@ -40,11 +40,11 @@ Co-founded MPOWERD and invented the Luci inflatable solar lantern. 5 million peo
 
 ## The argument I've been making since 2007
 
-**Friction Is Form™** — first argued at Temple University in October 2007, three months after the iPhone launched. The short version: AI collapses the space between question and answer. That space was where thinking happened. Systems optimized for total frictionlessness produce flatness — nothing is felt, nothing is authored, nothing is owned.
+**Friction Is Form™**, first argued at Temple University in October 2007, three months after the iPhone launched. The short version: AI collapses the space between question and answer. That space was where thinking happened. Systems optimized for total frictionlessness produce flatness. Nothing is felt, nothing is authored, nothing is owned.
 
 [MIT confirmed it](https://www.forbes.com/sites/jasonsnyder/2025/08/26/mit-finds-95-of-genai-pilots-fail-because-companies-avoid-friction/): 95% of enterprise GenAI pilots fail because organizations remove friction instead of designing it with intention.
 
-The book — *Human After Friction™* — is in progress.
+The book, *Human After Friction™*, is in progress.
 
 ---
 
