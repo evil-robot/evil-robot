@@ -10,7 +10,7 @@ When I can't find a tool I need, I build it and ship the hard parts as open sour
 
 ## Background
 
-30 years of building things that didn't exist yet. First commercial software at 14. Founded [Evil Robot MFG. Corp.](https://evilrobot.com) at 22 — still the umbrella for everything I do.
+30 years of building things that didn't exist yet. First commercial software at 14. Founded [EVIL ROBOT MFG.](https://evilrobot.com) at 22 — still the umbrella for everything I do.
 
 Invented the foundation patents for mobile advertising with JAGTAG: computer vision that reads any symbol in the physical world and delivers targeted content, plus a persistent cross-device identity layer. First 2D barcode on every major US carrier. Smart glasses and AR wearables run on derivatives of this IP. Acquired 2011.
 
