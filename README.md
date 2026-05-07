@@ -56,4 +56,4 @@ World Summit AI (Amsterdam) · United Nations · Milken Institute Global Confere
 
 ---
 
-[evilrobot.com](https://evilrobot.com) &nbsp;·&nbsp; jas@evilrobot.com
+[evilrobot.com](https://evilrobot.com)
