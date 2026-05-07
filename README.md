@@ -38,7 +38,7 @@ Co-founded MPOWERD and invented the Luci inflatable solar lantern. 5 million peo
 
 ![stax example chart](https://raw.githubusercontent.com/evil-robot/stax/main/docs/example-dti.png)
 
-**[bacon-avatar](https://portrait.artistsandrobots.com/)**: Francis Bacon-inspired portrait experiment. Three.js + GLSL. Not everything has to be useful.
+**[after-brown](https://portrait.artistsandrobots.com/)**: Francis Bacon-inspired portrait experiment. Three.js + GLSL. Not everything has to be useful.
 
 ---
 
