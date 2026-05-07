@@ -32,9 +32,13 @@ Co-founded MPOWERD and invented the Luci inflatable solar lantern. 5 million peo
 
 ## Open source
 
+**[supertruth-dti](https://github.com/evil-robot/supertruth-dti)**: The Data Trust Index. A multidimensional framework for evaluating health data integrity before it enters an AI system. Eight weighted dimensions, continuous 0-100 integrity score. Think of it as a FICO score for health data.
+
 **[stax](https://github.com/evil-robot/stax)**: server-side isometric 3D bar chart generation for Node.js. No browser, no Puppeteer, no external service. I needed this and couldn't find it. Three days of pain, one library. Pure PNG output.
 
 ![stax example chart](https://raw.githubusercontent.com/evil-robot/stax/main/docs/example-dti.png)
+
+**[bacon-avatar](https://portrait.artistsandrobots.com/)**: Francis Bacon-inspired portrait experiment. Three.js + GLSL. Not everything has to be useful.
 
 ---
 
